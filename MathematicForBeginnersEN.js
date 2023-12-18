@@ -132,7 +132,7 @@
         getInfo() {
             return {
                 "id": "MathematicForBeginners",
-                "name": "数学入門",
+                "name": "Mathematic For Beginners",
                 "color1": "#6691cc",
                 "color2": "#335e99",
                 "tbShow": true,
